@@ -1,4 +1,4 @@
-FROM Busybox
+FROM busybox
 MAINTAINER SUMAN <sumanjswl36@gmail.com>
 ADD index.html /www/index.html
 EXPOSE 8000 
